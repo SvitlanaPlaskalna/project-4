@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'FinelinerScript';
+  src: url('FinelinerScript.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fineliner_Script';
+  src: url('Fineliner_Script.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
